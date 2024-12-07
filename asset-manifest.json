@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Breast-Cancer-Detection/static/css/main.f9eb8dd2.css",
+    "main.js": "/Breast-Cancer-Detection/static/js/main.51192779.js",
+    "static/media/srmist-logo.png": "/Breast-Cancer-Detection/static/media/srmist-logo.376c7749148e69dfa2a2.png",
+    "index.html": "/Breast-Cancer-Detection/index.html",
+    "main.f9eb8dd2.css.map": "/Breast-Cancer-Detection/static/css/main.f9eb8dd2.css.map",
+    "main.51192779.js.map": "/Breast-Cancer-Detection/static/js/main.51192779.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9eb8dd2.css",
+    "static/js/main.51192779.js"
+  ]
+}
