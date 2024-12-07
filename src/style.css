@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: "Roboto", serif;
+  }
+  button {
+    background-color: #20232a;
+    color: #61dafb;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2); /* Add shadow */
+    transition: all 0.3s ease; /* Smooth transitions */
+  }
+  
+  button:hover {
+    background-color: #2c2f2f;
+    color: #ffffff;
+    box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.3); /* Enhance shadow on hover */
+    transform: translateY(-2px); /* Slight lift effect */
+  }
+  
